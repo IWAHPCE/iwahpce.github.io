@@ -63,5 +63,3 @@ All submissions will be peer-reviewed by the PC members. The review process is d
 - Wael Elwas, ORNL
 - Yuetsu Kodama, RIKEN R-CCS
 - James Lin, SJTU
-
-{{< form-contact action="https://formspree.io/your@email.com" >}}
