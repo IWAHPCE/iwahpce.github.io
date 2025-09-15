@@ -1,0 +1,21 @@
+<div class="dib h3 ma1 shadow-5-ns {{ .Get "class" }}">
+    <a
+        {{ with .Get "href" }}
+            href="{{ . }}"
+        {{ end }}
+        target="{{ default "_blank" (.Get "target") }}"
+    >
+        <img
+            {{ with .Get "img.src" }}
+                src="{{ . }}"
+            {{ end }}
+            class="v-mid h-100"
+            {{ with .Get "img.alt" }}
+                src="{{ . }}"
+            {{ end }}
+            {{ with .Get "img.title" }}
+                title="{{ . }}"
+            {{ end }}
+        />
+    </a>
+</div>

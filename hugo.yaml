@@ -1,0 +1,19 @@
+baseURL: "https://iwahpce.github.io/"
+disableKinds:
+ - taxonomy
+enableRobotsTXT: true
+languageCode: "en-us"
+menu:
+  main:
+    - identifier: editions
+      name: "Past Editions"
+      pageRef: /
+params:
+  custom_css:
+    - "button.css"
+    - "del.css"
+    - "table.css"
+  background_color_class: "bg-black"
+sectionPagesMenu: main
+title: "IWAHPCE"
+theme: "github.com/theNewDynamic/gohugo-theme-ananke"
