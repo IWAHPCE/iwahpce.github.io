@@ -3,7 +3,7 @@ description: "International Workshop on Arm-based HPC: Practice and Experience"
 featured_image: "/images/2026/featured-image.jpg"
 layout: "wide"
 location: "Osaka, Japan"
-period: "January 26th, 2026"
+period: "January, 2026"
 type: "page"
 ---
 
@@ -11,7 +11,7 @@ type: "page"
 
 * **Submission Deadline**: 27th October 2025 (AoE)
 * **Notification** : 26th November 2025 (AoE)
-* **Camera Ready**: 15th December 2015 (AoE)
+* **Camera Ready**: 15th December 2025 (AoE)
  
 ## Scope
 
@@ -36,10 +36,9 @@ All papers must be original and not simultaneously submitted to another journal 
 - Full papers Manuscripts must be at most 18 pages in one-column submission PDF format including figures and references
 - Short papers Manuscripts must be at most 10 pages in one-column submission PDF format including figures and references
   
-The paper format is described in the [Paper Submission](https://www.sca-hpcasia2026.jp/submit/papers.html) section of SCA/HPC Asia 2026 website Please note that the paper format for the submission (one-column) is different from the one of the camera ready (2-column).
+The paper format is described in the [Paper Submission](https://www.sca-hpcasia2026.jp/submit/papers.html) section of SCA/HPC Asia 2026 website. Fore more detail, please refer https://www.acm.org/publications/authors/submissions.
 
-Fore more detail, please refer https://www.acm.org/publications/authors/submissions
-All submissions will be peer-reviewed by the PC members. The review process is double-blind. Please do NOT include the name of authors, etc.
+All submissions will be peer-reviewed by the PC members. The review process is double-blind, please do not include the name of authors, etc.
 
 
 ### Workshop Chairs
