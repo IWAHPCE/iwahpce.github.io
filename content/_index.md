@@ -9,7 +9,7 @@ type: "page"
 
 ## Important Dates
 
-* **Submission Deadline**: ~27th October 2025~ 17th Noember 2025 (AoE)
+* **Submission Deadline**: ~27th October 2025~ 17th November 2025 (AoE)
 * **Notification** : ~26th November 2025~ 8th December 2025 (AoE)
 * **Camera Ready**: 15th December 2025 (AoE)
 
