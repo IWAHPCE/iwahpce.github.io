@@ -9,7 +9,7 @@ type: "page"
 
 The IWAHPCE 2026 workshop will be held in conjunction with the [SCA/HPCAsia 2026](https://www.sca-hpcasia2026.jp/) conference in Osaka, Japan.
 
-* **Date**: Monday January 27th, 2026
+* **Date**: Monday January 26th, 2026
 * **Time**: 9:30 - 12:30
 * **Location**: Osaka International Convention Centre, Room 1002.
 
