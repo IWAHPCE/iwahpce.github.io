@@ -1,10 +1,10 @@
 ---
+title: IWAHPCE
 description: "International Workshop on Arm-based HPC: Practice and Experience"
 featured_image: "/images/2026/featured-image.jpg"
-layout: "wide"
+layout: default
 location: "Osaka, Japan"
 period: "January, 2026"
-type: "page"
 ---
 
 The IWAHPCE 2026 workshop will be held in conjunction with the [SCA/HPCAsia 2026](https://www.sca-hpcasia2026.jp/) conference in Osaka, Japan.

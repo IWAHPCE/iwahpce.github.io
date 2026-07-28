@@ -1,0 +1,7 @@
+<a
+  class="button{% if include.class %} {{ include.class }}{% endif %}"
+  href="{{ include.href | default: '#' }}"
+  {% unless include.target == '_self' %}target="{{ include.target | default: '_blank' }}" rel="noopener"{% endunless %}
+>
+  {{ include.value }}
+</a>

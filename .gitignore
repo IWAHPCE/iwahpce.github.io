@@ -2,5 +2,11 @@
 node_modules
 dist
 tmp
+/_site/
+/.bundle/
+/.jekyll-cache/
+/.jekyll-metadata
+/.sass-cache/
+/vendor/bundle/
 /public/
 /resources/_gen/

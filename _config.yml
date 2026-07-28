@@ -1,0 +1,25 @@
+title: IWAHPCE
+description: "International Workshop on Arm-based HPC: Practice and Experience"
+url: "https://iwahpce.github.io"
+baseurl: ""
+lang: en-US
+
+navigation:
+  - title: Past Editions
+    url: /
+
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: compressed
+  sourcemap: never
+
+exclude:
+  - .bundle
+  - .DS_Store
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md

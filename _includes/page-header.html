@@ -1,0 +1,17 @@
+<header class="hero"{% if page.featured_image %} style="background-image: url('{{ page.featured_image | relative_url }}');"{% endif %}>
+  <div class="hero__overlay">
+    {% include site-navigation.html %}
+    <div class="hero__content">
+      <p class="hero__title">{{ page.title | default: site.title }}</p>
+      {% if page.description %}
+        <p class="hero__description">{{ page.description }}</p>
+      {% endif %}
+      {% if page.location %}
+        <p class="hero__meta">{{ page.location }}</p>
+      {% endif %}
+      {% if page.period %}
+        <p class="hero__meta hero__meta--last">{{ page.period }}</p>
+      {% endif %}
+    </div>
+  </div>
+</header>

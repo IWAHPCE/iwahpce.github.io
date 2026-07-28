@@ -1,0 +1,5 @@
+<div class="logo-card{% if include.class %} {{ include.class }}{% endif %}">
+  <a href="{{ include.href | default: '#' }}" target="{{ include.target | default: '_blank' }}" rel="noopener">
+    <img src="{{ include.img_src }}" alt="{{ include.img_alt | default: '' }}" {% if include.img_title %}title="{{ include.img_title }}"{% endif %}>
+  </a>
+</div>
