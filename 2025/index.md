@@ -75,7 +75,3 @@ Submission site: [EasyChair IWAHPCE 2025](https://easychair.org/conferences/?con
 - Tetsuya Odajima, Fujitsu
 - Wael Elwasif, ORNL
 - Yuetsu Kodama, RIKEN R-CCS
-
-## Original Repository
-
-[arm-hpc-user-group/iwahpce-2025](https://github.com/arm-hpc-user-group/iwahpce-2025)

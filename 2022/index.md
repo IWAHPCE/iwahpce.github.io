@@ -63,7 +63,3 @@ Submission site: [EasyChair IWAHPCE 2022](https://easychair.org/conferences/?con
 - Stephen Poole, Los Alamos National Laboratory
 - Valerio Schiavoni, University of Neuschatel
 - Michele Weiland, Edinburgh Parallel Computing Centre
-
-## Original Repository
-
-[arm-hpc-user-group/iwahpce-2022](https://github.com/arm-hpc-user-group/iwahpce-2022)

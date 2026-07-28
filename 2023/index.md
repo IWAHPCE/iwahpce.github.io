@@ -71,7 +71,3 @@ Submission site: [EasyChair IWAHPCE 2023](https://easychair.org/cfp/IWAHPCE2023)
 - Eva Siegmann, Stony Brook University
 
 Questions about submissions were directed to iwahpce2023oc@ml.riken.jp.
-
-## Original Repository
-
-[arm-hpc-user-group/iwahpce-2023](https://github.com/arm-hpc-user-group/iwahpce-2023)

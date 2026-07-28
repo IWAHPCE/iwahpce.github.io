@@ -74,7 +74,3 @@ Submission site: EasyChair IWAHPCE 2024.
 - Tom Deakin, University of Bristol
 - Wael Elwasif, ORNL
 - Yuetsu Kodama, RIKEN R-CCS
-
-## Original Repository
-
-[arm-hpc-user-group/iwahpce-2024](https://github.com/arm-hpc-user-group/iwahpce-2024)
