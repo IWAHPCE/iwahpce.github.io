@@ -224,6 +224,29 @@ del {
   vertical-align: middle;
 }
 
+.plain-shell {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding: 4rem 1.25rem;
+}
+
+.plain-shell h1 {
+  color: #1f2933;
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 0 0 1.5rem;
+}
+
+.plain-content {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+
+.plain-content ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
 .edition-list {
   display: grid;
   gap: 1rem;

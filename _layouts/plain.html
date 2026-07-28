@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <main class="plain-shell">
+      <h1>{{ page.title | default: site.title }}</h1>
+      <div class="plain-content">
+        {{ content }}
+      </div>
+    </main>
+  </body>
+</html>

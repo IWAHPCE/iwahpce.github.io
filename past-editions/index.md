@@ -1,10 +1,7 @@
 ---
 title: Past Editions
 description: "Previous editions of the International Workshop on Arm-based HPC: Practice and Experience"
-featured_image: "/images/2026/featured-image.jpg"
-layout: default
-location: "IWAHPCE"
-period: "Archive"
+layout: plain
 ---
 
 <div class="edition-list">
