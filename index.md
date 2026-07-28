@@ -1,39 +1,64 @@
 ---
-title: IWAHPCE
+title: IWAHPCE 2027
 description: "International Workshop on Arm-based HPC: Practice and Experience"
-featured_image: "/images/2026/featured-image.jpg"
+featured_image: "/images/2027/featured-image.png"
 layout: default
-location: "Osaka, Japan"
-period: "January, 2026"
+location: "Seoul, Korea"
+period: "February 17-19, 2027"
 ---
 
-The IWAHPCE 2026 workshop will be held in conjunction with the [SCA/HPCAsia 2026](https://www.sca-hpcasia2026.jp/) conference in Osaka, Japan.
+The IWAHPCE 2027 workshop will be held in conjunction with [HPC Asia 2027](https://hpcasia2027.org/2027/) in Seoul, Korea.
 
-* **Date**: Monday January 26th, 2026
-* **Time**: 9:30 - 12:30
-* **Location**: Osaka International Convention Centre, Room 1002.
+* **Date**: TBA, during HPC Asia 2027 (February 17-19, 2027)
+* **Time**: TBA
+* **Location**: Yonsei University, Seoul, Korea.
 
-## Technical Program
+## Important Dates
 
-| | |
-| :-------- | :------------------------------------------------------------------------------------- |
-| 09:30 | M. Tsuji and F. Spiga, **Welcome** |
-| | Performance Analysis and Tools _(Chair: M. Tsuji, RIKEN R-CCS & University of Tsukuba)_ |
-| 09:30-09:55 | C. Feld, G. Corbin and Brian J.N. Wylie, **"Score-P with Arm(s) around the world ..."** |
-| 09:55-10:20 | Y. Asai, K. Sato, K. Yamamoto, H. Murai and K. Yoshida, **"System Software Utilization on an ARM-Based Supercomputer: Insights from a Production-Scale System"** |
-| 10:20-10:45 | F. Banchelli, F. Mantovani and F. Spiga, **"Cross-architecture power efficiency analysis through micro-benchmarking"** |
-| 10:20-10:45 | Coffee Break |
-| | Applications and Optimizations _(Chair: F. Spiga, NVIDIA)_ |
-| 11:15-11:40 | D. Yoshida, E. Hiyama, T. Imamura, I. Kanamori and H. Matsufuru, **"Solving large-scale eigen problem in quantum few-body system on massive parallel computer"** |
-| 11:40-12:05 | I. Kanamori, H. Matsufuru, T. Aoyama, K. Kanaya, Yusuke Namekawa and Hidekatsu Nemura, **"Mixed precision solvers with half-precision floating point numbers for Lattice QCD on A64FX processor"** |
-| 12:05-12:30 | R. Iwai, J. Domke, E. Vatai and Y. Sato, **"Prototyping an Autotuning Framework for Program Optimization Using Exo Language"** |
+* **Submission Deadline**: TBA
+* **Notification**: TBA
+* **Camera Ready**: TBA
 
-All accepted papers will be published in the ACM Digital Library within the SCA/HPC Asia 2026 common workshops proceedings.
+Submission details will be announced here.
 
-#### Workshop Chairs and Committee
+All questions about submissions should be emailed to [iwahpce@ml.riken.jp](mailto:iwahpce@ml.riken.jp).
 
-- Miwako Tsuji, RIKEN R-CCS (Co-Chair)
-- Filippo Spiga, NVIDIA (Co-Chair)
+## Scope
+
+The IWAHPCE aims to provide the opportunity to share the practice and experience of high-performance computing systems using the Arm architecture and their performance and applications. The last few years have seen continued adoption of 64-bit Arm-based processors across server, cloud, and supercomputing environments, including systems built around Fujitsu A64FX, AWS Graviton, NVIDIA Grace CPU Superchip, and other emerging Arm-based platforms. Sharing practice and experience with these processors contributes to advancing high-performance computing technology for newly designed systems and applications.
+
+The IWAHPCE 2027 workshop will be held in conjunction with [HPC Asia 2027](https://hpcasia2027.org/2027/), The International Conference on High Performance Computing in Asia-Pacific Region. All accepted papers are expected to be published in the HPC Asia 2027 workshop proceedings.
+
+## Topics
+
+Topics of interest include, but are not limited to, the following:
+
+- HPC Applications
+- Performance Analysis, Performance Modeling & Measurement
+- SVE Vectorization analysis
+- Programming Models & System Software
+- Networking and accelerators such as GPUs
+- Artificial Intelligence and Machine Learning
+- Emerging Technologies
+
+## Paper Submission
+
+All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
+
+- Full papers
+- Short papers
+
+Paper format, page limits, and submission instructions will be announced once the HPC Asia 2027 workshop submission guidance is available.
+
+All submissions will be peer-reviewed by the PC members. The review process is double-blind; please do not include the names of authors or other identifying information in submitted manuscripts.
+
+### Workshop Chairs
+
+- Miwako Tsuji, RIKEN R-CCS
+- Filippo Spiga, NVIDIA
+
+### Program Committee
+
 - Conrad Hillairet, Arm Ltd
 - Csaba Csoma, AWS
 - Estela Suarez, JSC

@@ -224,6 +224,46 @@ del {
   vertical-align: middle;
 }
 
+.edition-list {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.edition-card {
+  border: 1px solid rgba(205, 205, 205, 0.85);
+  border-radius: 0.25rem;
+  color: inherit;
+  display: grid;
+  gap: 0.25rem;
+  padding: 1rem 1.25rem;
+  text-decoration: none;
+}
+
+.edition-card:hover,
+.edition-card:focus {
+  border-color: #2466ad;
+  color: inherit;
+}
+
+.edition-card__year {
+  color: #2466ad;
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.edition-card__title {
+  color: #1f2933;
+  font-size: 1.35rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.edition-card__meta {
+  color: #4a5561;
+  font-size: 1rem;
+}
+
 @media (min-width: 48rem) {
   .site-nav {
     padding-left: 2rem;

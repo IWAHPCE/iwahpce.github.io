@@ -6,7 +6,7 @@ lang: en-US
 
 navigation:
   - title: Past Editions
-    url: /
+    url: /past-editions/
 
 markdown: kramdown
 permalink: pretty
