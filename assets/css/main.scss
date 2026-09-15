@@ -43,7 +43,7 @@ del {
 }
 
 .hero__overlay {
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(8, 16, 24, 0.32);
   min-height: inherit;
 }
 
@@ -63,6 +63,7 @@ del {
 .site-nav__links a {
   color: rgba(255, 255, 255, 0.9);
   text-decoration: none;
+  text-shadow: 0 1px 8px rgba(0, 0, 0, 0.35);
 }
 
 .site-nav__brand {
@@ -112,6 +113,7 @@ del {
   line-height: 1.12;
   margin-bottom: 0;
   margin-top: 0;
+  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.38);
 }
 
 .hero__description {
@@ -121,6 +123,7 @@ del {
   line-height: 1.45;
   margin-top: 1rem;
   max-width: 48rem;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.38);
 }
 
 .hero__meta {
@@ -131,6 +134,7 @@ del {
   margin-bottom: 0;
   margin-top: 1rem;
   max-width: 48rem;
+  text-shadow: 0 2px 14px rgba(0, 0, 0, 0.38);
 }
 
 .hero__meta--last {
