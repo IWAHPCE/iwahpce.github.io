@@ -2,11 +2,11 @@
 title: IWAHPCE 2024
 description: "International Workshop on Arm-based HPC: Practice and Experience"
 layout: archive
-location: "Japan"
+location: "Nagoya, Japan"
 period: "January, 2024"
 ---
 
-The IWAHPCE 2024 workshop was held in conjunction with [HPC Asia 2024](https://sighpc.ipsj.or.jp/HPCAsia2024/) in Japan, January 25-27, 2024.
+The IWAHPCE 2024 workshop was held in conjunction with [HPC Asia 2024](https://sighpc.ipsj.or.jp/HPCAsia2024/) in Nagoya, Japan, January 25-27, 2024.
 
 ## Workshop Overview
 

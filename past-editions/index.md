@@ -18,7 +18,7 @@ layout: plain
   <a class="edition-card" href="{{ '/2024/' | relative_url }}">
     <span class="edition-card__year">2024</span>
     <span class="edition-card__title">IWAHPCE 2024</span>
-    <span class="edition-card__meta">Japan - HPC Asia 2024</span>
+    <span class="edition-card__meta">Nagoya, Japan - HPC Asia 2024</span>
   </a>
   <a class="edition-card" href="{{ '/2023/' | relative_url }}">
     <span class="edition-card__year">2023</span>
