@@ -25,7 +25,9 @@ All questions about submissions should be emailed to [iwahpce@ml.riken.jp](mailt
 
 ## Scope
 
-The IWAHPCE aims to provide the opportunity to share the practice and experience of high-performance computing systems using the Arm architecture and their performance and applications. The last few years have seen continued adoption of 64-bit Arm-based processors across server, cloud, and supercomputing environments, including systems built around Fujitsu A64FX, AWS Graviton, NVIDIA Grace CPU Superchip, and other emerging Arm-based platforms. Sharing practice and experience with these processors contributes to advancing high-performance computing technology for newly designed systems and applications.
+Arm has evolved from its embedded and mobile roots into an important platform for servers, cloud computing, data centres, and HPC. This expansion creates opportunities in co-design, heterogeneous computing, and future procurement, while raising challenges in software maturity, portability, benchmarking, optimisation, and operations.
+
+IWAHPCE provides a forum for researchers, developers, architects, vendors, and computing-centre operators to share practical experience in designing, deploying, optimising, and using Arm-based HPC systems. The workshop invites papers on Arm-based HPC systems, including application porting and optimisation, performance analysis and modelling, SVE/SVE2/SME vectorisation, programming environments, and system software. Other topics include heterogeneous platforms combining Arm CPUs with GPUs, networks, and accelerators; AI and machine learning; and hybrid quantum–classical workflows. Contributions using real hardware, simulation, or emulation are welcome.
 
 The IWAHPCE 2027 workshop will be held in conjunction with [SupercomputingAsia 2027](https://www.sc-asia.org/), the annual international HPC event gathering the SupercomputingAsia community in Singapore. All accepted papers are expected to be published in the SCA2027 workshop proceedings.
 
@@ -56,21 +58,27 @@ All submissions will be peer-reviewed by the PC members. The review process is d
 
 - Miwako Tsuji, RIKEN R-CCS
 - Filippo Spiga, NVIDIA
+- James Lin, Shanghai Jiao Tong University (SJTU)
 
-### Program Committee
+### Programme Committee
 
+- John Cazes, Texas Advanced Computing Center (TACC)
+- Csaba Csoma, Amazon Web Services (AWS)
+- Jens Domke, RIKEN Center for Computational Science (R-CCS)
+- Wael Elwasif, Oak Ridge National Laboratory (ORNL)
+- Luca Fedeli, French Alternative Energies and Atomic Energy Commission (CEA)
+- Gilles Fourestey, École Polytechnique Fédérale de Lausanne (EPFL)
+- Gilles Gouaillardet, Research Organization for Information Science and Technology (RIST)
+- Tom Green, Bristol Centre for Supercomputing (BriCS) / University of Bristol
 - Conrad Hillairet, Arm Ltd
-- Csaba Csoma, AWS
-- Estela Suarez, JSC
-- Fabio Banchelli, BSC
-- Filippo Spiga, NVIDIA
-- Gilles Fourestey, EPFL
-- Jens Domke, RIKEN R-CCS
-- John Cazes, TACC
-- Luca Fedeli, CEA
-- Min Li, Huawei
-- Miwako Tsuji, RIKEN R-CCS
+- Yuetsu Kodama, RIKEN Center for Computational Science (R-CCS)
+- Hatem Ltaief, King Abdullah University of Science and Technology (KAUST)
+- Filippo Mantovani, Barcelona Supercomputing Center (BSC)
 - Tetsuya Odajima, Fujitsu
-- Wael Elwas, ORNL
-- Yuetsu Kodama, RIKEN R-CCS
-- James Lin, SJTU
+- Abhishek Jain, Fujitsu
+- Etienne Renault, SiPearl
+- Estela Suarez, Jülich Supercomputing Centre
+- Eric Van Hensbergen, Arm Ltd
+- James Lin, Shanghai Jiao Tong University (SJTU)
+- Filippo Spiga, NVIDIA
+- Miwako Tsuji, RIKEN Center for Computational Science (R-CCS)
