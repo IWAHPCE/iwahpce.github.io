@@ -33,8 +33,6 @@ The IWAHPCE 2027 workshop will be held in conjunction with [SupercomputingAsia 2
 
 ## Topics
 
-Topics of interest include, but are not limited to, the following:
-
 - HPC Applications
 - Performance Analysis, Performance Modeling & Measurement
 - SVE Vectorization analysis
@@ -45,12 +43,7 @@ Topics of interest include, but are not limited to, the following:
 
 ## Paper Submission
 
-All papers must be original and not simultaneously submitted to another journal or conference. The following paper categories are welcome:
-
-- Full papers
-- Short papers
-
-Paper format, page limits, and submission instructions will be announced once the SCA2027 workshop submission guidance is available.
+All papers must be original and not simultaneously submitted to another journal or conference. Paper format, page limits, and submission instructions will be announced once the SCA2027 workshop submission guidance is available.
 
 All submissions will be peer-reviewed by the PC members. The review process is double-blind; please do not include the names of authors or other identifying information in submitted manuscripts.
 
