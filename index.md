@@ -15,9 +15,9 @@ The IWAHPCE 2027 workshop will be held in conjunction with [SupercomputingAsia 2
 
 ## Important Dates
 
-* **Workshop Paper Deadline:** 24 November 2026 (AoE)
-* **Workshop Paper Notification of Acceptance:** 8 December 2026 (AoE)
-* **Camera-ready Paper Deadline:** 20 December 2026 (AoE)
+* **Workshop paper submission deadline:** 8 December 2026, Anywhere on Earth (AoE)
+* **Notification of acceptance:** 22 December 2026, AoE
+* **Camera-ready paper deadline:** 8 January 2027, AoE
 
 Submission details will be announced here.
 
