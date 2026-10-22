@@ -55,23 +55,4 @@ All submissions will be peer-reviewed by the PC members. The review process is d
 
 ### Programme Committee
 
-- John Cazes, Texas Advanced Computing Center (TACC)
-- Csaba Csoma, Amazon Web Services (AWS)
-- Jens Domke, RIKEN Center for Computational Science (R-CCS)
-- Wael Elwasif, Oak Ridge National Laboratory (ORNL)
-- Luca Fedeli, French Alternative Energies and Atomic Energy Commission (CEA)
-- Gilles Fourestey, École Polytechnique Fédérale de Lausanne (EPFL)
-- Gilles Gouaillardet, Research Organization for Information Science and Technology (RIST)
-- Tom Green, Bristol Centre for Supercomputing (BriCS) / University of Bristol
-- Conrad Hillairet, Arm Ltd
-- Yuetsu Kodama, RIKEN Center for Computational Science (R-CCS)
-- Hatem Ltaief, King Abdullah University of Science and Technology (KAUST)
-- Filippo Mantovani, Barcelona Supercomputing Center (BSC)
-- Tetsuya Odajima, Fujitsu
-- Abhishek Jain, Fujitsu
-- Etienne Renault, SiPearl
-- Estela Suarez, Jülich Supercomputing Centre
-- Eric Van Hensbergen, Arm Ltd
-- James Lin, Shanghai Jiao Tong University (SJTU)
-- Filippo Spiga, NVIDIA
-- Miwako Tsuji, RIKEN Center for Computational Science (R-CCS)
+Under Definition
