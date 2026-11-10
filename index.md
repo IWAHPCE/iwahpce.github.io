@@ -55,4 +55,19 @@ All submissions will be peer-reviewed by the PC members. The review process is d
 
 ### Programme Committee
 
-Under Definition
+- John Cazes, Texas Advanced Computing Center (TACC)
+- Jens Domke, RIKEN Center for Computational Science (R-CCS)
+- Wael Elwasif, Oak Ridge National Laboratory (ORNL)
+- Gilles Fourestey, Ecole Polytechnique Federale de Lausanne (EPFL)
+- Tom Green, Bristol Centre for Supercomputing (BriCS) / University of Bristol
+- Conrad Hillairet, Arm Ltd
+- Filippo Mantovani, Barcelona Supercomputing Center (BSC)
+- Tetsuya Odajima, Fujitsu
+- Abhishek Jain, Fujitsu
+- Etienne Renault, SiPearl
+- James Lin, SJTU
+- Filippo Spiga, NVIDIA
+- Miwako Tsuji, University of Tsukuba/RIKEN
+- Santiago Marco, Barcelona Supercomputing Center (BSC)
+- Samar Aseeri, King Abdullah University of Science and Technology (KAUST)
+- Qiucheng Key, SJTU
